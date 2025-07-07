@@ -1,10 +1,10 @@
-# client-transfer-app````
+# client-transfer-app
 
 A full-stack Java Spring Boot and Angular application for managing ACH (Automated Clearing House) transactions. This module supports secure user authentication, ACH transfer submission, transaction processing, and viewing historical transfers. Built to real-world enterprise standards — modular, testable, secure, and CI/CD ready.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 | Layer    | Stack                                                   |
 | -------- | ------------------------------------------------------- |
@@ -15,7 +15,7 @@ A full-stack Java Spring Boot and Angular application for managing ACH (Automate
 
 ---
 
-## ✅ Features (Issue-Based)
+## Features (Issue-Based)
 
 ### \[#1] Implement User Authentication
 
